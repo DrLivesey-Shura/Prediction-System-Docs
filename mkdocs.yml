@@ -1,0 +1,9 @@
+site_name: Recomendation System
+nav:
+    - Home: 'index.md'
+    - docs: 'docs.md'
+    - Examples:
+      - Dataset as CSV: 'csv.md'
+      - Dataset as Json: 'json.md'
+      - Dataset as Sqlalchemy: 'sqlalchemy.md'
+      - Dataset as Mongodb: 'mongodb.md'
