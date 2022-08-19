@@ -7,3 +7,5 @@ nav:
       - Dataset as Json: 'json.md'
       - Dataset as Sqlalchemy: 'sqlalchemy.md'
       - Dataset as Mongodb: 'mongodb.md'
+      - theme: readthedocs
+      - extra_css: [extra.css]
