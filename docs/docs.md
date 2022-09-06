@@ -4,7 +4,7 @@ In Machine Learning, there is an extended class of web applications that involve
 
 Recommendation systems are widely used today to recommend products to users based on their interests. A recommendation system is one of
 the strongest systems for increasing profits by retaining more users in a very big competition. In the previous examples i showed u how 
-to build system Recommendation for multiple type of file (CSV , Json , MongoDB , SalAlchemy) and using different module (TFIDF and KNN)
+to build system Recommendation for multiple type of file (CSV , Json , MongoDB , SqlAlchemy) and using different module (TFIDF and KNN)
 using only one class(wraper) that can fit to all this type of files and modules
 
 # The Recommendation system class
